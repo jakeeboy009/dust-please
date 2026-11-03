@@ -1,0 +1,16 @@
+# 환경 변수 및 비밀 키 파일 (깃허브 업로드 방지)
+.env
+.env.local
+.env.*.local
+
+# Vercel 로컬 빌드 및 캐시 디렉터리
+.vercel
+
+# Node.js 패키지 디렉터리
+node_modules/
+
+# 운영체제 생성 임시 파일
+.DS_Store
+Thumbs.db
+Desktop.ini
+
